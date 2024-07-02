@@ -1,0 +1,29 @@
+.todo{
+	text-align: center;
+	padding-top: 8%;
+}
+
+.btn{
+	width: 50%;
+	margin: 2%;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+
+#cajaInicio{
+	margin-top: 70px;
+	margin-bottom: 7%;
+}
+
+
+
+

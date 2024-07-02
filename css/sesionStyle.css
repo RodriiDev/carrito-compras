@@ -1,0 +1,46 @@
+.mainbox{
+	margin-top: 15%;
+	margin-bottom: 7%;
+}
+.mainbox2{
+	margin-top: 100px;
+	margin-bottom: 7%;
+}
+.panel-body{
+	padding-top: 10%;
+}
+.input-group{
+	margin-bottom: 5%;
+}
+.form-group{
+	margin-top: 5%;
+}
+.count{
+	border-top: 1px solid#888; 
+	padding-top:15px; 
+	font-size:130%;
+	text-align: center;
+}
+.signlink{
+	float:right; 
+	font-size: 85%;
+	position: relative;
+	top:-10px;
+}
+.panel-title{
+	text-align: center;
+}
+.controls{
+	text-align: center;
+}
+.btnRegister{
+	text-align: center;
+	margin-top: 5%;
+}
+.btn-login{
+	background-color: #3AE14E;
+}
+
+.elim{
+	padding-top: 30px;
+}
